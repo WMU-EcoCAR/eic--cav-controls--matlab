@@ -1,0 +1,21 @@
+# Simulink / MATLAB generated files
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.slx.r20*
+*.mdl.r20*
+*.mex*
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
+sccprj/
+*.mldatx.bak
+
+# Large binaries (training material)
+*.pptx
+
+# OS / editor
+.DS_Store
+*~
